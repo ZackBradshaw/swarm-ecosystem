@@ -13,3 +13,6 @@
 [submodule "swarms-platform"]
 	path = swarms-platform
 	url = ../swarms-platform
+[submodule "swarm_interface"]
+	path = swarm_interface
+	url = git@github.com:ZackBradshaw/swarm_interface.git
